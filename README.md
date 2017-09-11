@@ -1,8 +1,8 @@
-# color-converter
-A Nodejs+Express app to learn JS unit tests with Karma, Mocha and Chai
+# Color-converter
+A Nodejs+Express app to learn unit tests with Karma, Mocha and Chai.
 
-# Start Server:
+## Start Server:
 `node app/server.js`
 
-# Run Tests:
+## Run Tests:
 `npm run test`
